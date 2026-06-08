@@ -1,15 +1,15 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AI+Engineer+%26+Consultant;I+build+AI+products+that+ship)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Consultant;I+build+AI+products+that+ship;Automation+%7C+Agents+%7C+Real+Deploys)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-After years as a software engineer (C#, .NET, SQL, cloud), I went all in on AI. I design and build real products: automation, multimodal apps, and tools that solve one problem well. Several run in production today.
+I build AI products that ship. Automation pipelines, multimodal apps, and agentic tools built with TypeScript, Python, and the Claude API. Several run in production today.
 
-- 🔭 Open to AI engineering roles and freelance projects
-- 🌐 Portfolio: [varundasharadhi.is-a.dev](https://varundasharadhi.is-a.dev)
+- 💼 Open to AI engineering roles and freelance projects
+- 🌐 [varundasharadhi.is-a.dev](https://varundasharadhi.is-a.dev)
 - 📫 dasharadhivarun@gmail.com
 
 ---
@@ -58,16 +58,10 @@ After years as a software engineer (C#, .NET, SQL, cloud), I went all in on AI. 
 
 | Project | What it does | Stack |
 |---|---|---|
-| [Empathiq Studio](https://empathiq-studio-api-server.vercel.app/) | Real-time emotional intelligence from face + voice - built solo in 24h, recognized by the community at the Replit 10 Year Buildathon | React, Express, Claude, Hume |
-| [Load Lens](https://loadlens.co.uk) | Automates load search & quoting on Courier Exchange | TypeScript, Trigger.dev, Playwright |
-| [Resume Matcher AI](https://resume-matcher-ai-iota.vercel.app/) | Scores a CV vs a job description, drafts cover letters | Python, Flask |
+| [Empathiq Studio](https://empathiq-studio-api-server.vercel.app/) | Real-time emotional intelligence from face + voice. Built solo in 24h at the Replit 10 Year Buildathon | React, Express, Claude, Hume |
+| [Load Lens](https://loadlens.co.uk) | Telegram bot that automates load search and quoting on Courier Exchange. Running in production | TypeScript, Trigger.dev, Playwright |
+| [Resume Matcher AI](https://resume-matcher-ai-iota.vercel.app/) | Scores a CV against any job description and generates a tailored cover letter | Python, Flask |
 | [UK Immigration Compass](https://uk-immigration-compass.vercel.app/) | Live dashboard tracking UK visa sponsor register changes, Home Office updates, and petitions | React, Gemini, Firestore |
-
----
-
-### 📊 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VarunDasharadhi&layout=compact&hide_border=true&theme=github_dark)
 
 ---
 
