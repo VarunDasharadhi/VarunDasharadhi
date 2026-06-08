@@ -58,7 +58,7 @@ After years as a software engineer (C#, .NET, SQL, cloud), I went all in on AI. 
 
 | Project | What it does | Stack |
 |---|---|---|
-| [Empathiq Studio](https://empathiq-studio-api-server.vercel.app/) | Real-time emotional intelligence from face + voice — built solo in 24h, recognized by the community at the Replit 10 Year Buildathon | React, Express, Claude, Hume |
+| [Empathiq Studio](https://empathiq-studio-api-server.vercel.app/) | Real-time emotional intelligence from face + voice - built solo in 24h, recognized by the community at the Replit 10 Year Buildathon | React, Express, Claude, Hume |
 | [Load Lens](https://loadlens.co.uk) | Automates load search & quoting on Courier Exchange | TypeScript, Trigger.dev, Playwright |
 | [Resume Matcher AI](https://resume-matcher-ai-iota.vercel.app/) | Scores a CV vs a job description, drafts cover letters | Python, Flask |
 | [Immigration Sponsor Updates](https://github.com/VarunDasharadhi/Immigration-Sponsor-Updates) | Tracks UK visa sponsor changes | React, Gemini, Firestore |
